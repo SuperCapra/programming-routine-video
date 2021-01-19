@@ -1,0 +1,23 @@
+{
+  "name": "programming-routine-video",
+  "version": "1.0.0",
+  "description": "logger to make the programming routine video cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/logger.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperCapra/programming-routine-video.git"
+  },
+  "author": "Giovanni Maggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperCapra/programming-routine-video/issues"
+  },
+  "homepage": "https://github.com/SuperCapra/programming-routine-video#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
